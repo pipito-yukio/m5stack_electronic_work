@@ -85,7 +85,7 @@ Wire/
 #### 01. M5Stamp picoのBLEライブラリを試す  
 
 <div>
-<img src="docs/01_M5stampBLE_android/images/M5_BLE_Android.jpg" width="400">
+<img src="docs/01_M5stamp_BLE_android/images/M5_BLE_Android.jpg" width="400">
 </div>
 
 - [ソース] 01_M5StampBLE_android  
