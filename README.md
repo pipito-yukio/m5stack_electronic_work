@@ -78,7 +78,7 @@ Wire/
 
 ### このリポジトリのコンテンツURL
 
-<https://github.com/pipito-yukio/m5stack_electronic_work/blob/main/docs/index.html>
+<https://pipito-yukio.github.io/m5stack_electronic_work/index.html>
 
 ### トピック
 
@@ -92,4 +92,4 @@ Wire/
   M5Stamp pico のBLE通信 -  Androidアプリ連携サンプル
 
 - ソース説明は下記URLからどうぞ  
- <https://github.com/pipito-yukio/m5stack_electronic_work/blob/main/docs/01_M5stampBLE_android.html>
+ <https://pipito-yukio.github.io/m5stack_electronic_work/01_M5stampBLE_android.html>
