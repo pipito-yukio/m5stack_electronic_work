@@ -92,4 +92,4 @@ Wire/
   M5Stamp pico のBLE通信 -  Androidアプリ連携サンプル
 
 - ソース説明は下記URLからどうぞ  
- <https://pipito-yukio.github.io/m5stack_electronic_work/01_M5stampBLE_android.html>
+ <https://pipito-yukio.github.io/m5stack_electronic_work/01_M5stamp_BLE_android.html>
